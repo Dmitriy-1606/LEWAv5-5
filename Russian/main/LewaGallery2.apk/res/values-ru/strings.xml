@@ -863,4 +863,14 @@ Ready to start? Touch Next."</string>
     <string name="lockpattern_need_to_unlock_wrong_footer" />
     <string name="create_album_fail_exists">create an album failed, and the album has the same name</string>
     <string name="create_album_fail_pecial_char">create an album failed, including special text</string>
+    <string name="pref_camera_jpegquality_title">Качество JPEG</string>
+    <string name="pref_camera_jpegquality_entry_superfine">Максим.</string>
+    <string name="pref_camera_jpegquality_entry_fine">Высокое</string>
+    <string name="pref_camera_jpegquality_entry_normal">Хорошее</string>
+    <string name="pref_camera_jpegquality_entry_middle">Среднее</string>
+    <string name="pref_camera_jpegquality_entry_low">Низкое</string>
+    <string name="pref_camera_exposuremeter_title">Автомат. экспозиция</string>
+    <string name="pref_camera_exposuremeter_entry_center">Центр</string>
+    <string name="pref_camera_exposuremeter_entry_spot">Точка</string>
+    <string name="pref_camera_exposuremeter_entry_average">Среднее</string>
 </resources>

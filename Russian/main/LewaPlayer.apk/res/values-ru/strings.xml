@@ -35,8 +35,8 @@
     <string name="cancel_cn_text">Отмена</string>
     <string name="ok_cn_text">ОК</string>
     <string name="no_artist_album_text">Не найдено песен исполнителя в локальной библиотеке</string>
-    <string name="no_sdcard_title_text">Системная информация</string>
-    <string name="no_sdcard_message_text">Невозможно проиграть без SD-карты</string>
+    <string name="no_sdcard_title_text">SD-карта недоступна</string>
+    <string name="no_sdcard_message_text">Вставьте SD-карту и попробуйте заново</string>
     <string name="text_all_local_songs">Вся локальная музыка</string>
     <string name="playlist_dialog_title">Редактировать плейлист</string>
     <string name="remove_playlist_title">Удалить плейлист</string>

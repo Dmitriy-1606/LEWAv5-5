@@ -578,9 +578,9 @@
     <string name="all_resources">Все ресурсы</string>
     <string name="both_sims">Обе SIM-карты</string>
     <string name="all_calls">Все вызовы</string>
-    <string name="received_calls">Принятые</string>
+    <string name="received_calls">Входящие</string>
     <string name="outgoing_calls">Исходящие</string>
-    <string name="missed_calls">Пропущенные</string>
+    <string name="missed_calls">Пропущено</string>
     <string name="call_via_sim1">Позвонить через SIM1</string>
     <string name="call_via_sim2">Позвонить через SIM2</string>
     <string name="choose_sim_header">Выбрать SIM-карту</string>

@@ -118,7 +118,7 @@
     <string name="spm_custom_settings_setting_max_title_smart">максимальные значения</string>
     <string name="spm_custom_settings_intelli_other">Дополнительно</string>
     <string name="spm_custom_settings_intelli_batterylow_title">Сообщение о низком заряде</string>
-    <string name="spm_custom_settings_intelli_batterylow_summy">"Предупреждение о низком заряде батареи. Текущий значение: "</string>
+    <string name="spm_custom_settings_intelli_batterylow_summy">"Предупреждение о низком заряде батареи. Текущее значение: "</string>
     <string name="spm_battery_low_warnnig_title">Батарея разряжена!</string>
     <string name="spm_battery_low_warnnig_msg">Внимание! Уровень заряда меньше</string>
     <string name="spm_battery_low_warnnig_msg_1">.Открыть приложение Батарея+?</string>
